@@ -1,2 +1,1 @@
-canonifyURLs = true
-baseurl: "https://jrb9000.github.io/reverie/"
+canonifyURLs = false
